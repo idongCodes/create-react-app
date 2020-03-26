@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          ZEIT Now
+          Lambda WEB28 Now
         </a>
         !
       </h2>
